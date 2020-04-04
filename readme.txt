@@ -3,7 +3,7 @@ Contributors: mantrabrain
 Donate link: https://mantrabrain.com
 Tags: comments, disable, all, easy
 Requires at least: 4.0
-Tested up to: 5.0.3
+Tested up to: 5.4
 Stable tag: 1.0.1
 License: MIT License
 License URI: http://opensource.org/licenses/MIT
