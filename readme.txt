@@ -4,7 +4,7 @@ Donate link: https://mantrabrain.com
 Tags: comments, disable, all, easy
 Requires at least: 4.0
 Tested up to: 5.8
-Stable tag: 1.0.2
+Stable tag: 1.0.4
 License: MIT License
 License URI: http://opensource.org/licenses/MIT
 
@@ -28,6 +28,6 @@ Easily disable comments on your website
 = 1.0.0 - 2019/03/3 =
 * Initial release
 
-= 1.0.2 - 2021/07/23 =
-* version tested
+= 1.0.4 - 2021/07/23 =
+* WordPress 5.8 Version tested & Some Minor Fixes
 
