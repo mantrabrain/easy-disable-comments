@@ -3,7 +3,7 @@
 Plugin Name: Easy Disable Comments
 Plugin URI: https://wordpress.org/plugins/disable-comments/
 Description: Easily disable comments on your website
-Version: 1.0.1
+Version: 1.0.2
 Author: Mantrabrain
 Author URI: https://mantrabrain.com/
 License: GPL2
